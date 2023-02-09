@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<prism:PrismApplication xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Unity;assembly=Prism.Unity.Forms"
+             x:Class="CustomFlip.App">
+    <Application.Resources>
+
+        <!--COLORS-->
+        <Color x:Key="Background">#8EA7E9</Color>
+        <Color x:Key="Text">#7286D3</Color>
+        <Color x:Key="LightViolet">#E5E0FF</Color>
+        <Color x:Key="LightBeige">#FFF2F2</Color>
+        
+        
+    </Application.Resources>
+</prism:PrismApplication>
